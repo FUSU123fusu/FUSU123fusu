@@ -13,7 +13,7 @@
 - 🖥️ 喜欢一切 **CLI / TUI**，正在用 Rust 造终端工具
 - 🤖 沉迷 **AI Coding Agent** 生态，给 DeepSeek Harness 写插件、修上游 bug
 - 🦀 Rust 学习中，也写 TypeScript / Python / C
-- 🎯 信条：能跑在终端里的，绝不开浏览器
+- 🎯 Stay zen.
 
 ### 🛠️ Tech Stack
 
