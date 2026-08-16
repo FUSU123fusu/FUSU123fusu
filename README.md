@@ -28,15 +28,23 @@
 
 </div>
 
-### 🚀 Featured Projects
+### 🚀 折腾过的东西
 
 | 项目 | 说明 | 技术 |
 |------|------|------|
-| 🐳 [lazyterminal-v2](https://github.com/FUSU123fusu/lazyterminal-v2) | 终端工具（第二代） | Rust |
-| ⌨️ [lazyterminal](https://github.com/FUSU123fusu/lazyterminal) | 终端工具（初代） | Rust |
 | 📦 [dsh-profile-port](https://github.com/FUSU123fusu/dsh-profile-port) | DeepSeek Harness profile 导出/迁移工具 | JavaScript |
 | 🖥️ [dsh-desktop](https://github.com/FUSU123fusu/dsh-desktop) | dsh 桌面端探索 | JavaScript |
 | 🤝 [dsh-TUI](https://github.com/FUSU123fusu/dsh-TUI) | 社区 TUI 贡献者（多个已合并 PR） | TypeScript |
+
+### 🎲 Just for Fun
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+</div>
 
 ### 📊 GitHub Stats
 
