@@ -1,5 +1,8 @@
 name: Generate Snake
 
+permissions:
+  contents: write
+
 on:
   schedule:
     # 每天北京时间 08:00（UTC 00:00）重新生成
